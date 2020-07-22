@@ -1,3 +1,4 @@
+// Maximum Subarray Sums (Prefix Sums approach instead of Kadane's Algorithm): https://cses.fi/problemset/task/1643/
 
 #include <bits/stdc++.h>
 using namespace std;
