@@ -1,3 +1,5 @@
+// Bear and Friendship Condition: http://codeforces.com/contest/771/problem/A
+
 #include <bits/stdc++.h>
 
 using namespace std;
