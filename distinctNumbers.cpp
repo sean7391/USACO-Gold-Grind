@@ -34,7 +34,7 @@ int main(){
     int ans = 1;
     for (int i = 1; i < n; i++)
     	if (v[i] != v[i - 1])
-    		ans++;
+    	    ans++;
  
     cout << ans << endl;
     return 0;
