@@ -36,6 +36,6 @@ int main(){
     	if (v[i] != v[i - 1])
     		ans++;
  
-	cout << ans << endl;
-	return 0;
+    cout << ans << endl;
+    return 0;
 }
