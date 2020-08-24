@@ -5,7 +5,6 @@ using namespace std;
 #define pb push_back
 typedef long long ll;
 
-
 int main(){
     ll t; cin >> t;
     while (t--){
