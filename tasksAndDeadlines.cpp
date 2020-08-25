@@ -40,7 +40,7 @@ int main() {
     }
     sort(arr, arr + n);
  
-	ll cur = 0, ans = 0;
+    ll cur = 0, ans = 0;
     for (int i = 0; i < n; i++){
     	cur += arr[i].f;
     	ans += (arr[i].s - cur);
