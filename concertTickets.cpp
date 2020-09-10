@@ -18,14 +18,11 @@ int main() {
     ms.insert(t);
   }
   
-  
   for (ll element : ms)
     cout << element << " ";
     
   cout << endl;
-    
-
-    
+  
   while (m--) {
     cin >> t;
     auto it = ms.lower_bound(t);
